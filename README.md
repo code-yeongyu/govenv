@@ -1,5 +1,5 @@
 # govenv
-Govenv: An GOPATH activate maker just like a python virtual env.
+Govenv: A GOPATH activate maker just like a python virtual env.
 
 # How to use?
 Make sure you have downloaded the source code and build with this command.  
